@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: idw
+Version: 0.1.0
+Summary: Pybind eigen example
+Home-page: UNKNOWN
+Author: Sultanov M.
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Provides-Extra: test
+
+UNKNOWN
+

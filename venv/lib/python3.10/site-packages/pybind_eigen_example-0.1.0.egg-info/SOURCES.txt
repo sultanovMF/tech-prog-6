@@ -1,0 +1,8 @@
+README.md
+setup.py
+pybind_eigen_example.egg-info/PKG-INFO
+pybind_eigen_example.egg-info/SOURCES.txt
+pybind_eigen_example.egg-info/dependency_links.txt
+pybind_eigen_example.egg-info/not-zip-safe
+pybind_eigen_example.egg-info/requires.txt
+pybind_eigen_example.egg-info/top_level.txt
